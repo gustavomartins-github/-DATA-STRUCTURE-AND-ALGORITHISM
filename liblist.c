@@ -152,3 +152,20 @@ void print_list(example_list *list)
         printf("\n");
     }
 }
+
+example_list * list_excldue(example_list *list)
+{
+    if (list == NULL)
+    {
+        printf("List is empty\n");
+        return list;
+    }
+    else
+    {
+        while (list != NULL)
+        {
+            list = head_excldue(list);
+        }
+        return list;
+    }
+}

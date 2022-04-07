@@ -29,6 +29,9 @@ example_list * tail_excldue(example_list *list);
 // Remove a node from the list
 example_list * node_excldue(example_list *list, int value);
 
+// Romove all nodes from the list
+example_list * list_excldue(example_list *list);
+
 // Print the list
 void print_list(example_list *list);
 

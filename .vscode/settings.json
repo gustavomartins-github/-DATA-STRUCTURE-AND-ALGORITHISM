@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "functional": "c",
-        "stdlib.h": "c",
-        "liblist.h": "c"
-    }
-}

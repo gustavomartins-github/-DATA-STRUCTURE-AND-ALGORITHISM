@@ -19,7 +19,6 @@ int main(void)
     //testing the function before_include
     list = before_include(list, 6, 2);
     print_list(list);
-
     //testing the functions head_excldue and tail_excldue
     list = head_excldue(list);
     print_list(list);
@@ -30,8 +29,9 @@ int main(void)
     list = node_excldue(list, 2);
     print_list(list);
 
-
-
+    //testing the function list_excldue
+    list = list_excldue(list);
+    print_list(list);
 
     return 0;
 }
