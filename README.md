@@ -1,2 +1,2 @@
-# -DATA-STRUCTURE-AND-ALGORITHISM
-A repository for the documentation of my study on the subject data structure and algorithm 1 of the Gama engineering university - UnB Brasilia
+# DATA STRUCTURE AND ALGORITHISM 👨‍💻
+<p> This repository refers to the documentation of my study on the Data Structure and Algorithms discipline 1. </p>
